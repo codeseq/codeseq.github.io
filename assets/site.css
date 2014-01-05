@@ -1,12 +1,12 @@
 body {
-  background-color: #334918;
+  background-color: #525252;
 }
 
 #base-logo {
-    width:772px;
-    height:275px;
+    width:574px;
+    height:161px;
     position:absolute;
     left:50%;
     top:50%;
-    margin:-137px 0 0 -386px;
+    margin:-80px 0 0 -288px;
 }
